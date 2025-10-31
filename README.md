@@ -1,7 +1,7 @@
 ### 👋 Hey there, I'm Jason!
 
 I'm a 16-year-old Nigerian student on a mission to break into tech and study abroad through scholarships.  
-I’m learning **Python**, building beginner projects, and actively preparing for **SAT exams** and **fully funded tech scholarships** (USA, UK, Canada).
+I’m learning **Python**, building beginner projects, and actively preparing for **SAT exams** and **fully funded tech scholarships** 
 
 ---
 
